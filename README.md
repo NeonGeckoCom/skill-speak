@@ -10,7 +10,8 @@ Turn Mycroft into a parrot.  Speak a phrase and listen to it repeated in Mycroft
 * "speak I can say anything you'd like!"
 
 ## Credits
-Mycroft AI (@MycroftAI)
+[Mycroft AI](https://github.com/MycroftAI)
+[NeonDaniel](https://github.com/NeonDaniel)
 
 ## Category
 **Entertainment**
