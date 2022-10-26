@@ -5,9 +5,8 @@ Make Mycroft repeat whatever you want
 Turn Mycroft into a parrot.  Speak a phrase and listen to it repeated in Mycroft's selected voice. 
 
 ## Examples
-* "say Goodnight, Gracie"
-* "repeat Once upon a midnight dreary, while I pondered, weak and weary, Over many a quaint and curious volume of forgotten lore"
-* "speak I can say anything you'd like!"
+* "Say Goodnight, Gracie."
+* "Speak I can say anything you'd like!"
 
 ## Credits
 [Mycroft AI](https://github.com/MycroftAI)
