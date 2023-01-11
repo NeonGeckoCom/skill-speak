@@ -6,7 +6,7 @@ Turn Neon into a parrot.  Speak a phrase and listen to it repeated in Mycroft's 
 
 ## Examples
 * "Say Goodnight, Gracie."
-* "Speak I can say anything you'd like!"
+* "Repeat I can say anything you'd like!"
 
 ## Credits
 [Mycroft AI](https://github.com/MycroftAI)
