@@ -1,9 +1,0 @@
-{
-  "utterance": "speak hello jason",
-  "intent_type": "speak_back",
-  "intent": {
-    "Speak": "speak",
-    "Words": "hello jason"
-  },
-  "expected_response": "hello jason"
-}
