@@ -1,3 +1,0 @@
-söyle (?P<Words>.*)
-konuş (?P<Words>.*)
-tekrar et (?P<Words>.*)
