@@ -40,17 +40,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import re
 
 from neon_utils.skills import NeonSkill
-from adapt.intent import IntentBuilder
 from ovos_utils import classproperty
 from ovos_utils.process_utils import RuntimeRequirements
 
-from mycroft import intent_handler
+from mycroft.skills.mycroft_skill.decorators import intent_file_handler
 
-
-# TODO - Localization
 
 class SpeakSkill(NeonSkill):
 
@@ -66,19 +62,13 @@ class SpeakSkill(NeonSkill):
                                    no_network_fallback=True,
                                    no_gui_fallback=True)
 
-    @intent_handler(IntentBuilder("").require("Speak").require("Words"))
+    @intent_file_handler("speak.intent")
     def speak_back(self, message):
         """
-            Repeat the utterance back to the user.
-
-            TODO: The method is very english centric and will need
-                  localization.
+        Repeat the utterance back to the user.
         """
-        if self.neon_in_request(message):
-            # Remove everything up to the speak keyword and repeat that
-            utterance = message.data.get('utterance')
-            repeat = re.sub('^.*?' + message.data['Speak'], '', utterance)
-            self.speak(repeat.strip())
+        repeat = message.data.get('phrase')
+        self.speak(repeat.strip())
 
     def stop(self):
         pass

@@ -1,3 +1,0 @@
-digues (?P<Words>.*)
-(parla|pronuncia) (?P<Words>.*)
-repeteix (?P<Words>.*)
