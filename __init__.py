@@ -49,7 +49,6 @@ from mycroft.skills.mycroft_skill.decorators import intent_file_handler
 
 
 class SpeakSkill(NeonSkill):
-
     @classproperty
     def runtime_requirements(self):
         return RuntimeRequirements(network_before_load=False,
@@ -73,6 +72,3 @@ class SpeakSkill(NeonSkill):
     def stop(self):
         pass
 
-
-def create_skill():
-    return SpeakSkill()
