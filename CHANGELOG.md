@@ -1,24 +1,12 @@
 # Changelog
 
-## [0.1.1a2](https://github.com/NeonGeckoCom/skill-speak/tree/0.1.1a2) (2023-05-10)
+## [1.0.1a1](https://github.com/NeonGeckoCom/skill-speak/tree/1.0.1a1) (2023-06-15)
 
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/0.1.1a1...0.1.1a2)
-
-**Implemented enhancements:**
-
-- \[FEAT\] Intent and Resource tests [\#21](https://github.com/NeonGeckoCom/skill-speak/issues/21)
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/1.0.0...1.0.1a1)
 
 **Merged pull requests:**
 
-- Update intents to Padatious with tests [\#24](https://github.com/NeonGeckoCom/skill-speak/pull/24) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [0.1.1a1](https://github.com/NeonGeckoCom/skill-speak/tree/0.1.1a1) (2023-05-10)
-
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/0.1.0...0.1.1a1)
-
-**Merged pull requests:**
-
-- Update GitHub automation to latest best practices [\#25](https://github.com/NeonGeckoCom/skill-speak/pull/25) ([NeonDaniel](https://github.com/NeonDaniel))
+- Deprecate `create_skill` method [\#27](https://github.com/NeonGeckoCom/skill-speak/pull/27) ([NeonDaniel](https://github.com/NeonDaniel))
 
 
 
