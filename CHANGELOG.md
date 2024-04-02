@@ -1,12 +1,20 @@
 # Changelog
 
-## [1.0.1a1](https://github.com/NeonGeckoCom/skill-speak/tree/1.0.1a1) (2023-06-15)
+## [2.0.1a2](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.1a2) (2024-04-02)
 
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/1.0.0...1.0.1a1)
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.1a1...2.0.1a2)
 
 **Merged pull requests:**
 
-- Deprecate `create_skill` method [\#27](https://github.com/NeonGeckoCom/skill-speak/pull/27) ([NeonDaniel](https://github.com/NeonDaniel))
+- Update test dependency to stable spec [\#30](https://github.com/NeonGeckoCom/skill-speak/pull/30) ([NeonDaniel](https://github.com/NeonDaniel))
+
+## [2.0.1a1](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.1a1) (2024-02-05)
+
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.0...2.0.1a1)
+
+**Merged pull requests:**
+
+- Support ovos-utils 0.1 [\#29](https://github.com/NeonGeckoCom/skill-speak/pull/29) ([NeonDaniel](https://github.com/NeonDaniel))
 
 
 
