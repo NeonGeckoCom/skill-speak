@@ -44,8 +44,7 @@
 from neon_utils.skills import NeonSkill
 from ovos_utils import classproperty
 from ovos_utils.process_utils import RuntimeRequirements
-
-from mycroft.skills.mycroft_skill.decorators import intent_file_handler
+from ovos_workshop.skills.decorators import intent_handler
 
 
 class SpeakSkill(NeonSkill):
@@ -61,7 +60,7 @@ class SpeakSkill(NeonSkill):
                                    no_network_fallback=True,
                                    no_gui_fallback=True)
 
-    @intent_file_handler("speak.intent")
+    @intent_handler("speak.intent")
     def speak_back(self, message):
         """
         Repeat the utterance back to the user.
