@@ -1,20 +1,20 @@
 # Changelog
 
-## [2.0.1a2](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.1a2) (2024-04-02)
+## [2.0.2](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.2) (2024-07-09)
 
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.1a1...2.0.1a2)
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.2a1...2.0.2)
+
+**Implemented enhancements:**
+
+- \[FEAT\] Deprecate Mycroft import [\#32](https://github.com/NeonGeckoCom/skill-speak/issues/32)
+
+## [2.0.2a1](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.2a1) (2024-05-10)
+
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.1...2.0.2a1)
 
 **Merged pull requests:**
 
-- Update test dependency to stable spec [\#30](https://github.com/NeonGeckoCom/skill-speak/pull/30) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [2.0.1a1](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.1a1) (2024-02-05)
-
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.0...2.0.1a1)
-
-**Merged pull requests:**
-
-- Support ovos-utils 0.1 [\#29](https://github.com/NeonGeckoCom/skill-speak/pull/29) ([NeonDaniel](https://github.com/NeonDaniel))
+- Remove `mycroft` imports [\#33](https://github.com/NeonGeckoCom/skill-speak/pull/33) ([NeonDaniel](https://github.com/NeonDaniel))
 
 
 
