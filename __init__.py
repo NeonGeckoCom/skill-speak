@@ -44,7 +44,7 @@
 from neon_utils.skills import NeonSkill
 from ovos_utils import classproperty
 from ovos_utils.process_utils import RuntimeRequirements
-from ovos_workshop.skills.decorators import intent_handler
+from ovos_workshop.decorators import intent_handler
 
 
 class SpeakSkill(NeonSkill):
