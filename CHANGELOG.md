@@ -1,20 +1,28 @@
 # Changelog
 
-## [2.0.2](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.2) (2024-07-09)
+## [2.0.3a3](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.3a3) (2025-03-11)
 
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.2a1...2.0.2)
-
-**Implemented enhancements:**
-
-- \[FEAT\] Deprecate Mycroft import [\#32](https://github.com/NeonGeckoCom/skill-speak/issues/32)
-
-## [2.0.2a1](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.2a1) (2024-05-10)
-
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.1...2.0.2a1)
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.3a2...2.0.3a3)
 
 **Merged pull requests:**
 
-- Remove `mycroft` imports [\#33](https://github.com/NeonGeckoCom/skill-speak/pull/33) ([NeonDaniel](https://github.com/NeonDaniel))
+- Update automation, gitignore, and license notices [\#37](https://github.com/NeonGeckoCom/skill-speak/pull/37) ([NeonDaniel](https://github.com/NeonDaniel))
+
+## [2.0.3a2](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.3a2) (2024-09-20)
+
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.3a1...2.0.3a2)
+
+**Merged pull requests:**
+
+- Update import to resolve deprecation warning [\#36](https://github.com/NeonGeckoCom/skill-speak/pull/36) ([NeonDaniel](https://github.com/NeonDaniel))
+
+## [2.0.3a1](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.3a1) (2024-09-17)
+
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.2...2.0.3a1)
+
+**Merged pull requests:**
+
+- Update OVOS depdendencies for 0.x compat [\#35](https://github.com/NeonGeckoCom/skill-speak/pull/35) ([NeonDaniel](https://github.com/NeonDaniel))
 
 
 
