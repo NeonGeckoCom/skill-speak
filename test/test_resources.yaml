@@ -25,6 +25,7 @@ languages:
   - "ru-ru"
   - "sv-se"
   - "tr-tr"
+  - "uk-ua"
 
 # vocab is lowercase .voc file basenames
 vocab: []
