@@ -28,7 +28,17 @@ en-us:
     - repeat this is a longer phrase to repeat back:
         - phrase: this is a longer phrase to repeat back
 
+uk-ua:
+  speak.intent:
+    - скажи привіт:
+        - phrase: привіт
+    - повтори це довша фраза для повторення:
+        - phrase: це довша фраза для повторення
+    - скажи доброго дня:
+        - phrase: доброго дня
+    - повтори я тестую голосового асистента:
+        - phrase: я тестую голосового асистента
+
 unmatched intents:
   en-us:
     - how do you say hello in spanish
-    - how do you say thank you in ukrainian
