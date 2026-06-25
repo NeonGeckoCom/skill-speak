@@ -1,28 +1,12 @@
 # Changelog
 
-## [2.0.3a3](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.3a3) (2025-03-11)
+## [2.0.4a1](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.4a1) (2025-07-03)
 
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.3a2...2.0.3a3)
-
-**Merged pull requests:**
-
-- Update automation, gitignore, and license notices [\#37](https://github.com/NeonGeckoCom/skill-speak/pull/37) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [2.0.3a2](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.3a2) (2024-09-20)
-
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.3a1...2.0.3a2)
+[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.3...2.0.4a1)
 
 **Merged pull requests:**
 
-- Update import to resolve deprecation warning [\#36](https://github.com/NeonGeckoCom/skill-speak/pull/36) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [2.0.3a1](https://github.com/NeonGeckoCom/skill-speak/tree/2.0.3a1) (2024-09-17)
-
-[Full Changelog](https://github.com/NeonGeckoCom/skill-speak/compare/2.0.2...2.0.3a1)
-
-**Merged pull requests:**
-
-- Update OVOS depdendencies for 0.x compat [\#35](https://github.com/NeonGeckoCom/skill-speak/pull/35) ([NeonDaniel](https://github.com/NeonDaniel))
+- Ukrainian Translation [\#40](https://github.com/NeonGeckoCom/skill-speak/pull/40) ([NeonDaniel](https://github.com/NeonDaniel))
 
 
 
